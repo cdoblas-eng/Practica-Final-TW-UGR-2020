@@ -1,0 +1,61 @@
+.div_header{
+  display: flex;
+  justify-content: space-between;
+}
+
+*{
+  font-family: 'Raleway';
+}
+
+#titulo_pagina{
+  margin-top: 3.3%;
+  font-family: 'Quicksand';
+}
+
+nav ul li a{
+  color: black;
+  font-family: 'Raleway';
+}
+
+nav ul li a:hover{
+  color: black;
+  font-weight: bold;
+  font-family: 'Raleway';
+}
+
+.nav-link{
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.fila-2-index{
+  margin-top: 80px;
+  display: flex;
+}
+
+#imagen2{
+  align-self: center;
+}
+
+#cerrar-login{
+  position: absolute;
+  width:20px;
+  height:20px;
+  right: -10px;
+  top: 55px;
+}
+
+.input_buscar{
+  height: 40px;
+  margin-top: -19px;
+}
+
+.imagen-listado{
+  width:100px;
+  height: 100px;
+}
+
+.logo-registro:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
